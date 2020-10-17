@@ -1,0 +1,23 @@
+.div1
+{
+    background-color: green;
+    border: solid black 3px;
+    height: 200px;
+    width: 200px;
+}
+
+.div2
+{
+    background-color: whitesmoke;
+    border: solid black 3px;
+    height: 250px;
+    width: 250px;px;
+}
+
+.div3
+{
+    background-color: orange;
+    border: solid black 3px;
+    height: 300px;
+    width: 300px;
+}
